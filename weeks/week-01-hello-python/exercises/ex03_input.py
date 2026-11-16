@@ -30,4 +30,4 @@ input_name=input("Nhap Ten: ");
 input_adj=input("Nhap tinh tu: ");
 input_animal=input("Nhap con vat: ");
 input_number=input("nhap so luong: ");
-print("|Xin Chao ban",input_name,"! Hom nay la mot ngay",input_adj,".Ban da thay mot con",input_animal,"tren duong va ban da dem duoc co",input_number,"con|");
+print("|Xin Chao ban",input_name,"! Hom nay la mot ngay",input_adj,".Ban da thay mot con",input_animal,"tren duong va ban da dem duoc co",input_number,"con|"); 

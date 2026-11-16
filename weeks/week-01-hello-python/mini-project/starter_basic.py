@@ -10,4 +10,4 @@ width = len(massage) + 2;
 
 print("+" + "-" * width + "+");
 print("| "+massage+" |");
-print("+" + "-" *width + "+");
+print("+" + "-" *width + "+"); 

@@ -49,7 +49,7 @@ git add -A
 git diff --cached --quiet
 if errorlevel 1 (
     echo [INFO] Phat hien thay doi, dang commit...
-    git commit --allow-empty-message -m ""
+    git commit --allow-empty-message -m "Bai tap"
     if errorlevel 1 goto ERROR
 
     echo [INFO] Dang upload len GitHub...

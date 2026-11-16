@@ -25,3 +25,4 @@ print("Con du =" ,100%7, "vien");
 # Công thức: F = C * 9/5 + 32
 print("37°C = ", 37 * 9/5 + 32, "°F");
 
+ 

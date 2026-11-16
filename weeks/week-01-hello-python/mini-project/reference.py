@@ -7,3 +7,4 @@ width = len(message) + 2
 print("+" + "-" * width + "+")
 print("| " + message + " |")
 print("+" + "-" * width + "+")
+ 

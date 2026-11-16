@@ -23,4 +23,4 @@ print("╚" + "═" * width + "╝");
 # Bước 5: In khung dưới
 # TODO: In dòng dưới bằng ╚═══╝
 
-# Gợi ý: Dùng str.center(width) để căn giữa
+# Gợi ý: Dùng str.center(width) để căn giữa 
