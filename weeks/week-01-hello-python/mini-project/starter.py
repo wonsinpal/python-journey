@@ -11,10 +11,12 @@ ten = input("Nhập tên của bạn: ")
 
 # Bước 2: Tính độ rộng khung
 # TODO: Tính width dựa trên len(ten)
-
+width = len(ten) + 4;
 # Bước 3: In khung trên
 # TODO: In dòng trên bằng ╔═══╗
-
+print("╔" + "═" * width + "╗");
+print("║ " + ten.center(width-2) + " ║");
+print("╚" + "═" * width + "╝");
 # Bước 4: In nội dung
 # TODO: In tên trong khung, căn giữa
 
